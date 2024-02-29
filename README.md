@@ -7,3 +7,6 @@ BLOC VS CUBIT
 >2. Cubit only have state stream. 
    Cubits are like functions.
    
+### How to Start?
+1. Find number of event seeing ui.
+   for login Form- 3 events : email event, pass event and submit event.
