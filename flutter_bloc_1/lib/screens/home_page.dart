@@ -22,6 +22,7 @@ class MyHomePage extends StatelessWidget {
         child: BlocConsumer<InternetBlocBloc, InternetBlocState>(
           listener: (context, state) {
             if (state is IntenetGainState) {
+              // for cubit state == InteternetGainded State. all same
               ScaffoldMessenger.of(context).showSnackBar(
                 const SnackBar(
                   content: Text("Internet Connected!"),
