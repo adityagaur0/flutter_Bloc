@@ -8,5 +8,11 @@ BLOC VS CUBIT
    Cubits are like functions.
    
 ### How to Start?
-1. Find number of event seeing ui.
+>1. Find number of event seeing ui.
    for login Form- 3 events : email event, pass event and submit event.
+ 2. we need to create states.
+ 3. then create bloc.
+<img width="323" alt="Screenshot 2024-03-01 at 2 07 12 AM" src="https://github.com/adityagaur0/flutter_Bloc/assets/112656570/0d244839-8edf-4585-8597-cf706322e0f9">
+
+
+
